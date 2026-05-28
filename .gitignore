@@ -50,5 +50,8 @@ logs/
 # Playwright MCP artifacts
 .playwright-mcp/
 
+# Playwright screenshots captured at repo root
+/*.png
+
 # Environment variables
 .env
